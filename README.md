@@ -1,9 +1,9 @@
 # Internship at BSUIR
 ## Content
-- [Application type](https://github.com/DAEDALUS-prog/internship/master/README.md#application-type)
-- [For what/whom?](https://github.com/DAEDALUS-prog/internship/edit/master/README.md#for-whatwhom)
-- [What will be in it?](https://github.com/DAEDALUS-prog/internship/edit/master/README.md#what-will-be-in-it)
-- [What is used?](https://github.com/DAEDALUS-prog/internship/edit/master/README.md#what-is-used)
+- [Application type](https://github.com/DAEDALUS-prog/internship/blob/master/README.md#application-type)
+- [For what/whom?](https://github.com/DAEDALUS-prog/internship/blog/master/README.md#for-whatwhom)
+- [What will be in it?](https://github.com/DAEDALUS-prog/internship/blog/master/README.md#what-will-be-in-it)
+- [What is used?](https://github.com/DAEDALUS-prog/internship/blog/master/README.md#what-is-used)
 
 
 
