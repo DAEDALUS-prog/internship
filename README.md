@@ -12,6 +12,17 @@ This app is for kids and their parents.
 
 ### What will be in it?
 
+This app is capable of:
+- read/listen to fairy tales and stories
+- upload your own stories in both written and audio format
+- editing existing stories
+- save your favorite stories
+- parental control
+
+In the application, the administration selects the best stories for your children.
+Each fairy tale is processed / auditioned and approved if it is completely safe
+for children. Fairy tales have age limits of +1/+3/+5/+10/+12 years.
+
 
 
 
