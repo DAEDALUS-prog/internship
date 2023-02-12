@@ -4,7 +4,7 @@
 - [For what/whom?](https://github.com/DAEDALUS-prog/internship/blob/master/README.md#for-whatwhom)
 - [What will be in it?](https://github.com/DAEDALUS-prog/internship/blob/master/README.md#what-will-be-in-it)
 - [What is used?](https://github.com/DAEDALUS-prog/internship/blob/master/README.md#what-is-used)
-- [SonarCloud]()
+- [SonarCloud](https://github.com/DAEDALUS-prog/internship/blob/master/README.md#sonarcloud)
 
 
 
