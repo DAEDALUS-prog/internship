@@ -23,6 +23,21 @@ In the application, the administration selects the best stories for your childre
 Each fairy tale is processed / auditioned and approved if it is completely safe
 for children. Fairy tales have age limits of +1/+3/+5/+10/+12 years.
 
+### What is used?
+The application uses these technologies:
+- Database
+> PostgreSQL
+- JDBC
+- JSP
+- backend
+> SpringBoot
+ 
+> Hibernate
+- frontend
+> Angular
+
+> React
+
 
 
 
