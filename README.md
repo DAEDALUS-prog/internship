@@ -4,6 +4,7 @@
 - [For what/whom?](https://github.com/DAEDALUS-prog/internship/blob/master/README.md#for-whatwhom)
 - [What will be in it?](https://github.com/DAEDALUS-prog/internship/blob/master/README.md#what-will-be-in-it)
 - [What is used?](https://github.com/DAEDALUS-prog/internship/blob/master/README.md#what-is-used)
+- [SonarCloud]()
 
 
 
@@ -46,25 +47,5 @@ The application uses these technologies:
 
 > React
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### [![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-orange.svg)](https://sonarcloud.io/summary/new_code?id=DAEDALUS-prog_internship)
+## SonarCloud
+> [![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-orange.svg)](https://sonarcloud.io/summary/new_code?id=DAEDALUS-prog_internship)
